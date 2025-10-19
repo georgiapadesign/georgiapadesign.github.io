@@ -1,0 +1,23 @@
+.hero-section {
+	height: 30vh;
+	background-image: url("../img/brucesteam.jpg");
+	
+display: flex;
+justify-content: center;
+align-items: center;
+
+}		 
+.hero-section h1 {
+font-size: 50px;
+}
+
+
+h1{
+	background-color: #de740b;
+	background-size: 50vh;
+}
+
+p1{
+	font-size: 30px;
+	text-emphasis-color: pink;
+}
