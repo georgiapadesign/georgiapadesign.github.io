@@ -19,5 +19,31 @@ h1{
 
 p1{
 	font-size: 30px;
-	text-emphasis-color: pink;
+    color: #f2610f;
+}
+
+.p1{
+	color: #f76b2a;
+}
+
+.p2{
+	color: #79a0d4;
+}
+
+.p3{
+	color: #61371f;
+}
+
+.p4{
+	color: #f2691b;
+}
+
+.p5{
+	font-size: 30px;
+	color: #f2610f;
+}
+
+li{
+	color: #ed9e15;
+	font-size: 30px;
 }
